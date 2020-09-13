@@ -1,0 +1,4 @@
+board_size,steps_taken,solved
+6,9,yes
+8,471,yes
+10,100002,no
