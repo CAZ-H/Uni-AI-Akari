@@ -1,7 +1,7 @@
 # Introduction
 
 This repo was the working repo for a university Artificial Intelligence course assignment.  
-Implemented here are two constraint satisfaction problem solvers for the [Light-up / Akari](https://www.puzzle-light-up.com/) puzzle game, one using backtracking only, and one using forward-checking with constraint propagation. This assignment was completed as a group project.
+Implemented here are two constraint satisfaction problem solvers for the [Light-up / Akari](https://www.puzzle-light-up.com/) puzzle game, one using backtracking only, and one using forward-checking with constraint propagation. This assignment was completed as a pair project with another student.
 
 Below is the handed-in writeup accompanying this repo, enhanced with some embedded images.
 
